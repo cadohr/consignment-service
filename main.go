@@ -6,7 +6,7 @@ import (
 	// Import the generated protobuf code
 	"context"
 
-	pb "github.com/cadohr/gomicroservices/consignment-service/proto/consignment"
+	pb "github.com/cadohr/consignment-service/proto/consignment"
 	"github.com/micro/go-micro"
 )
 
