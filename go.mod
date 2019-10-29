@@ -1,4 +1,4 @@
-module github.com/cadohr/gomicroservices/consignment-service
+module github.com/cadohr/consignment-service
 
 go 1.13
 
